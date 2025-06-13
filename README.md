@@ -116,7 +116,7 @@ java -ea -cp out game.Main
 This is a CS2110 assignment at Cornell University. Students must follow the course collaboration policy and work only with their declared partner.
 
 ## Authors
-[Your Name] and [Partner Name if applicable]
+Cameron Brady and Grant Wu
 
 ## Acknowledgments
 Assignment created by the CS2110 course staff at Cornell University.
